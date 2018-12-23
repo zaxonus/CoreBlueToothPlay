@@ -16,3 +16,11 @@ For your information I have been using:
 - Xcode 10.1.
 - iOS 12.1.2 and 12.1.1
 - Swift 4.2
+
+
+Note:
+These applications have no pretentions to be useful or interesting.
+They are only provided as a sample to get started on using CoreBluetooth.
+
+Being myself without much experience on the subject, comments from experts are more than welcome.
+There may be ways to do things better or even bad practices in the code.
